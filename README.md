@@ -47,7 +47,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
      
      POST Endpoint URL - //ajax.unmetered.io/report/order
       
-         id : report number value
+         id : report number
 
    Response Fields
  
