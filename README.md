@@ -20,6 +20,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
      city - City / Municipality / Town Name
      province (if applicable) - State or Province (if Service Address Country has States)
      country (default: Canada) - Service Country (Bangladesh, Canada, India, France, USA, etc)
+     partner - Affiliate / Coupon / Partner Code to Pre-Fill into Transaction
      
    Response Fields - There are 3 possible results to a "Check Address" query : fail, similar, exact
    
