@@ -5,11 +5,13 @@ Please refer to http://api.hostbillapp.com/ for basic account, ordering and supp
 
 UNMETERED Specific Functions
 
-- UNMETERED.Report | Tool to Check Address for Available Solutions
+- UNMETERED.Report
+Tool to Check Address for Available Solutions
 
 -- Check Address and/or Generate Report
 
    Call Name : checkAddress
+   
    Endpoint URL : //ajax.unmetered.io/report/check
    
    Input Fields ( HTTP POST or GET )
@@ -44,7 +46,9 @@ UNMETERED Specific Functions
    Call Name : orderURL
    
    Input Fields ( HTTP GET or POST )
+   
    GET : Endpoint URL - //ajax.unmetered.io/report/order/[report-number]
+   
    POST : Endpoint URL - //ajax.unmetered.io/report/order : field name "id" for report number value
    
    
