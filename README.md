@@ -62,8 +62,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
      
        status : success
        browser will automatically redirect to order page in management portal
-       - account information as listed
-       
+
  
 ##
 
