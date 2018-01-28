@@ -45,15 +45,25 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
    
    Input Fields ( HTTP GET or POST )
    
-     GET
-       
-       Endpoint URL - //ajax.unmetered.io/report/order/[report-number]
+     GET Endpoint URL - //ajax.unmetered.io/report/order/[report-number]
      
-     POST
-       
-       Endpoint URL - //ajax.unmetered.io/report/order
-       
+     POST Endpoint URL - //ajax.unmetered.io/report/order
+      
          id : report number value
+
+   Response Fields
+ 
+     if "status : fail"
+     
+       status : fail
+       info (if available) : remarks regarding failure
+
+     else
+     
+       status : success
+       browser will automatically redirect to order page in management portal
+       - account information as listed
+       
  
 ##
 
