@@ -17,7 +17,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
      vector - Street Direction (N, S, E, W, etc)
      street - Street Name (without Direction except in Calgary, AB, Canada)
      city - City / Municipality / Town Name
-     province (if applicable) - State or Province (if Service Address Country has States)
+     province (if applicable) - State or Province (if Service Country has States)
      country (default: Canada) - Service Country (Bangladesh, Canada, England, France, India, USA, etc)
      partner - Affiliate / Coupon / Partner Code to Pre-Fill into Transaction
      
