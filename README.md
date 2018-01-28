@@ -4,7 +4,7 @@ Please refer to http://api.hostbillapp.com/ for basic account, ordering and supp
 
 UNMETERED.Report - A Tool to Check Address for Available Solutions
 ##
-# Call : checkAddress - Check Address and/or Generate Report
+# checkAddress - Check Address and/or Generate Report
 
    
    
@@ -41,7 +41,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
        
 
 ##
-# Call : orderURL - Generate Pre-Filled Ordering URL
+# orderURL - Generate Pre-Filled Ordering URL
    
    Input Fields ( HTTP GET or POST )
    
