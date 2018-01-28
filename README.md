@@ -37,7 +37,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
      
        status : exact
        result : id number of report for requested service address
-       address : array of address elements (apartment, houseNumber, vector, street, city, province, postal_code)
+       address : array of address (apartment, houseNumber, vector, street, city, province, postal_code)
        
 
 ##
