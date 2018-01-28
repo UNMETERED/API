@@ -1,5 +1,4 @@
-# API
-Application Classes and Libraries for using the UNMETERED APIs for Partners
+#Application Classes and Libraries for using the UNMETERED APIs for Partners
 
 Please refer to http://api.hostbillapp.com/ for basic account, ordering and support functions.
 
