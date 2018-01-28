@@ -18,7 +18,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
      street - Street Name (without Direction except in Calgary, AB, Canada)
      city - City / Municipality / Town Name
      province (if applicable) - State or Province (if Service Address Country has States)
-     country (default: Canada) - Service Country (Bangladesh, Canada, France, India, UK, USA, etc)
+     country (default: Canada) - Service Country (Bangladesh, Canada, England, France, India, USA, etc)
      partner - Affiliate / Coupon / Partner Code to Pre-Fill into Transaction
      
    Response Fields - There are 3 possible results to a "Check Address" query : fail, similar, exact
