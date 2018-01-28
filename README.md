@@ -41,7 +41,7 @@ Tool to Check Address for Available Solutions
        status : exact
        result : id number of report for requested service address
        
--- Check Address and/or Generate Report
+-- Generate Pre-Filled Ordering URL
 
    Call Name : orderURL
    
