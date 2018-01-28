@@ -3,7 +3,7 @@ Application Classes and Libraries for using the UNMETERED APIs for Partners
 Please refer to http://api.hostbillapp.com/ for basic account, ordering and support functions.
 
 UNMETERED.Report - A Tool to Check Address for Available Solutions
-
+##
 # Check Address and/or Generate Report
 
    Call Name : checkAddress
@@ -38,6 +38,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
        status : exact
        result : id number of report for requested service address
        
+##
 # Generate Pre-Filled Ordering URL
 
    Call Name : orderURL
