@@ -15,7 +15,7 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
      apartment (optional) - Apartment or Unit Number
      houseNumber - Building or House Number
      vector - Street Direction (N, S, E, W, etc)
-     street - Street Name (without Direction except in Calgary, AB)
+     street - Street Name (without Direction except in Calgary, AB, Canada)
      city - City / Municipality / Town Name
      province (if applicable) - State or Province (if Service Address Country has States)
      country (default: Canada) - Service Country (Bangladesh, Canada, India, France, USA, etc)
