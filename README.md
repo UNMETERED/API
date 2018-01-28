@@ -4,7 +4,7 @@ Please refer to http://api.hostbillapp.com/ for basic account, ordering and supp
 
 UNMETERED.Report - A Tool to Check Address for Available Solutions
 
--- Check Address and/or Generate Report
+# Check Address and/or Generate Report
 
    Call Name : checkAddress
    
@@ -38,14 +38,13 @@ UNMETERED.Report - A Tool to Check Address for Available Solutions
        status : exact
        result : id number of report for requested service address
        
--- Generate Pre-Filled Ordering URL
+# Generate Pre-Filled Ordering URL
 
    Call Name : orderURL
    
    Input Fields ( HTTP GET or POST )
    
-   GET : Endpoint URL - //ajax.unmetered.io/report/order/[report-number]
-   
-   POST : Endpoint URL - //ajax.unmetered.io/report/order : field name "id" for report number value
+     GET : Endpoint URL - //ajax.unmetered.io/report/order/[report-number]
+     POST : Endpoint URL - //ajax.unmetered.io/report/order : field name "id" for report number value
    
    
