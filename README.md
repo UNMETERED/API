@@ -3,10 +3,7 @@ Application Classes and Libraries for using the UNMETERED APIs for Partners
 
 Please refer to http://api.hostbillapp.com/ for basic account, ordering and support functions.
 
-UNMETERED Specific Functions
-
-- UNMETERED.Report
-Tool to Check Address for Available Solutions
+UNMETERED.Report - A Tool to Check Address for Available Solutions
 
 -- Check Address and/or Generate Report
 
